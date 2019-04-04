@@ -11,7 +11,7 @@ Make a Todo List Using Vue JS
 3. If checkbox is checked, the item should be striked out
 Make use of Vue-CLI and Bootstrap-Vue
 
-![alt text](https://github.com/poojathakor/TodoListUsingVue/blob/master/todoNormal/b.png)
+![alt text](https://github.com/poojathakor/TodoListUsingVue/blob/master/todoNormal/c.png)
 
 ## Build Setup
 [VUE CLI](https://cli.vuejs.org/guide/installation.html)
