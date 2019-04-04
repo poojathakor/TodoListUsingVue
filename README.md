@@ -34,11 +34,13 @@ npm run build --report
 npm i vue bootstrap-vue bootstrap
 ```
 
-## integrate Bootstrap
+## Integrate Bootstrap
 
 ``` bash
 # add in main.js
-# you can also go through [link](https://bootstrap-vue.js.org/docs)
+# you can also go through 
+[link](https://bootstrap-vue.js.org/docs)
+
 import BootstrapVue from 'bootstrap-vue'
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap-vue/dist/bootstrap-vue.css"
