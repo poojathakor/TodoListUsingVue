@@ -1,8 +1,16 @@
+Definition: 
+Make a Todo List Using Vue JS
+1. There should be a Textbox and Button
+2. Once we enter Text and Click on Add Button, It should be added in the List having Checkbox.
+3. If checkbox is checked, the item should be striked out
+Make use of Vue-CLI and Bootstrap-Vue
+
 # demo
 
 > demo in vue JS
 
 ## Build Setup
+
 
 ``` bash
 # install dependencies
