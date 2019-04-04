@@ -41,7 +41,7 @@ npm i vue bootstrap-vue bootstrap
 ## Integrate Bootstrap
 [Bootstrap Vue](https://bootstrap-vue.js.org/docs)
 ``` js
-# add in main.js
+// add in main.js
 import BootstrapVue from 'bootstrap-vue'
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap-vue/dist/bootstrap-vue.css"
