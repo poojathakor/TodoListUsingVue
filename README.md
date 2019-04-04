@@ -5,10 +5,6 @@ Make a Todo List Using Vue JS
 3. If checkbox is checked, the item should be striked out
 Make use of Vue-CLI and Bootstrap-Vue
 
-# demo
-
-> demo in vue JS
-
 ## Build Setup
 
 
@@ -35,12 +31,9 @@ npm i vue bootstrap-vue bootstrap
 ```
 
 ## Integrate Bootstrap
-
+[link](https://bootstrap-vue.js.org/docs)
 ``` bash
 # add in main.js
-# you can also go through 
-[link](https://bootstrap-vue.js.org/docs)
-
 import BootstrapVue from 'bootstrap-vue'
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap-vue/dist/bootstrap-vue.css"
