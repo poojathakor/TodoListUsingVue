@@ -6,7 +6,7 @@ Make a Todo List Using Vue JS
 Make use of Vue-CLI and Bootstrap-Vue
 
 ## Build Setup
-
+[VUE CLI](https://cli.vuejs.org/guide/installation.html)
 
 ``` bash
 # install VUE CLI
